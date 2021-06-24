@@ -1,7 +1,6 @@
 # Brute Force Sudoku Solver
 
-I first wrote this program in Racket while working through UBC's "How to Code: Complex Data" course. I can't take credit for the
-approach since it was developed by them. Decided to give it a whirl in Scala.
+This is a Scala re-write of the generative recursing coding challenge in UBC's "How to Code: Complex Data" course.
 
 ### Process
 
